@@ -1,0 +1,2 @@
+public class registerTest {
+}
